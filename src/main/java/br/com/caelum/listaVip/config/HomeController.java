@@ -10,5 +10,10 @@ public class HomeController {
 	public String index() {
 		return "index";
 	}
+	
+	@RequestMapping("listaConvidados")
+	public String listaConvidados() {
+		return "listaConvidados";
+	}
 
 }
