@@ -1,5 +1,5 @@
 ### Configuração de banco de dados ###
-*/configuracao.properties
+src/main/resources/configuracao.properties
 
 HELP.md
 /target/
