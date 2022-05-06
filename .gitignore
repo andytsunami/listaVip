@@ -1,5 +1,5 @@
 ### Configuração de banco de dados ###
-*.properties
+#*.properties
 
 HELP.md
 /target/
@@ -32,7 +32,7 @@ HELP.md
 .vscode/
 
 *.classpath
-*.project
+#*.project
 /target/
 *.class
 *.settings
